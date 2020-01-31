@@ -1,4 +1,4 @@
-# _Animal shelter API!_
+# _Animal shelter API! (authenticated)_
 
 ### _a database API for cats and dogs._
 
@@ -6,7 +6,7 @@
 
 # Description
 
-_This program is a database-practice site. It lists cats and dogs in a json object. It has full get/post/patch/delete/put functionality._
+_This is an authenticated version of the animal shelter API project. It will require an authentication token in Postman to access. To access a friendlier version of this project, please visit https://github.com/ikemanep1/indpro13_animal_shelter_
 
 ### Setup/Installation Requirements
 
