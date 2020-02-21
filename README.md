@@ -6,7 +6,7 @@
 
 # Description
 
-_This is an authenticated version of the animal shelter API project. It will require an authentication token in Postman to access. To access a friendlier version of this project, please visit https://github.com/ikemanep1/indpro13_animal_shelter_
+_This is an authenticated version of the animal shelter API project. It will require an authentication token in Postman to access._
 
 ### Setup/Installation Requirements
 
